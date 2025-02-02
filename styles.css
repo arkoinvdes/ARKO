@@ -39,13 +39,13 @@ header nav ul li a {
 }
 
 .hero-text h1 {
-    color: #000000;
+    color: #000;
     font-size: 50px;
     margin-bottom: 20px;
 }
 
 .hero-text p {
-    color: #000000;
+    color: #000;
     font-size: 20px;
     margin-bottom: 20px;
 }
